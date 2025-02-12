@@ -1,0 +1,18 @@
+.pink-box {
+    background-color: rgb(255, 166, 167);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#blue-box {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.fixed-font {
+    font-size: 24px;
+}
+
+#green-box {
+    background-color: rgb(128, 255, 128);
+    font-weight: bold;
+}
